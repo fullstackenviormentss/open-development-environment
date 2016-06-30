@@ -10,4 +10,8 @@ All the tools are already configured and ready to be used.
 
 ## Components
 
+### Development Environments
+- [Jekyll](https://github.com/ferrarimarco/open-development-environment-jekyll): a Dockerized development environment for Jekyll
+
+### Version Control
 - [Git](https://github.com/ferrarimarco/open-development-environment-git): a Dockerized Git installation
