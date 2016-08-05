@@ -10,6 +10,9 @@ All the tools are already configured and ready to be used.
 
 ## Components
 
+### Configuration Management
+- [Ansible](https://github.com/ferrarimarco/open-development-environment-ansible): a Dockerized Ansible installation
+
 ### Development Environments
 - [Jekyll](https://github.com/ferrarimarco/open-development-environment-jekyll): a Dockerized development environment for Jekyll
 
